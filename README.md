@@ -1,7 +1,4 @@
-## Nivel avanzado
+## Ejercicio SA2
 
-En esta rama publicaré las implementaciones de nivel avanzado
-
-### Trello
-
-Enlace al tablero sobre el avance: [enlace](https://trello.com/b/XQsLlmIs/avanzado)
+En este repositorio implemento mi resolución para el ejercicio SA2 del itinerario back.  
+Utilizo thymeleaf para facilitar la comunicación con un pequeño front, finalmente, consigo recuperar ficheros y guardarlos dentros de un HashMap (no utlizo bases de datos para este ejercicio)
